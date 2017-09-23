@@ -1,4 +1,4 @@
-# ORIE 4741 Project -- League of Legend Game Win Prediction<br/>
+# ORIE 4741 Project -- League of Legends Game Win Prediction<br/>
 
 Project Name:LOL Game Win Prediction<br/>
 <br/>
